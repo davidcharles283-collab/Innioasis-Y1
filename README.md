@@ -12,7 +12,7 @@ Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la reso
 
 
 # Ingles
-## This repository is exclusively dedicated to collecting and storing themes for the **Innioasis Y1** device.
+### This repository is exclusively dedicated to collecting and storing themes for the **Innioasis Y1** device.
 ## Themes for Innioasis Y1 (240p)
 -  [themify](./themify.zip)
 -  [Themify2](./Themify_2.zip)
