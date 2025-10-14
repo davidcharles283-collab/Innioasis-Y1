@@ -5,6 +5,8 @@
 -  [Themify2](./Themify_2.zip)
 -  [adwaitapod](./adwaitapod.zip)
 -  [adwaitapod_dark](./adwaitapod_dark.zip)
+-  [adwaitapod_simplified](./adwaitapod_simplified.zip)
+-  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark.zip)
 
 ### Contribuciones
 
@@ -18,6 +20,8 @@ Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la reso
 -  [Themify2](./Themify_2.zip)
 -  [adwaitapod](./adwaitapod.zip)
 -  [adwaitapod_dark](./adwaitapod_dark.zip)
+-  [adwaitapod_simplified](./adwaitapod_simplified.zip)
+-  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark.zip)
 
 ### Contributions
 
