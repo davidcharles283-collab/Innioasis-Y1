@@ -1,4 +1,4 @@
-#Español
+# Español
 
 ## Temas para Innioasis Y1 (240p)
 
@@ -14,7 +14,7 @@
 Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la resolución especificada.
 
 ---
-#Ingles
+# Ingles
 ## Themes for Innioasis Y1 (240p)
 
 ### Description
