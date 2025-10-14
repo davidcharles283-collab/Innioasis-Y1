@@ -4,6 +4,7 @@
 ## Temas para Innioasis Y1 (240p)
 -  [Themify2](./Themify_2.zip)
 -  [adwaitapod](./adwaitapod.zip)
+-  [adwaitapod_dark](./adwaitapod_dark.zip)
 
 ### Contribuciones
 
@@ -15,6 +16,7 @@ Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la reso
 ## Themes for Innioasis Y1 (240p)
 -  [Themify2](./Themify_2.zip)
 -  [adwaitapod](./adwaitapod.zip)
+-  [adwaitapod_dark](./adwaitapod_dark.zip)
 
 ### Contributions
 
