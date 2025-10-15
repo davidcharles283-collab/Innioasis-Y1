@@ -1,3 +1,4 @@
+<!-- Autor: David charles -->
 ## Eliminar el Número de Pista del Nombre del Archivo
 ### Si tus archivos están nombrados con el número de pista al principio (*ej. 01 - Nombre de la Canción.mp3*), puedes usar una de las funciones de Mp3tag para renombrarlos en lote.
 
