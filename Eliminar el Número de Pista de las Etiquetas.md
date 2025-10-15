@@ -1,3 +1,4 @@
+<!-- Autor: David charles -->
 ## Eliminar el Número de Pista de las Etiquetas (Metadatos)
 Este método borrará el número de pista de la información interna del archivo, que es lo que los reproductores de música leen para organizar tu biblioteca.
 
