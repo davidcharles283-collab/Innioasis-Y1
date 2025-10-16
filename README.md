@@ -8,9 +8,13 @@
 -  [adwaitapod_simplified](./adwaitapod_simplified.zip)
 -  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark.zip)
 
+## Temas para Innioasis Y1 (360p)
+-  [adwaitapod](./adwaitapod_360.zip)
+-  [adwaitapod_dark](./adwaitapod_dark_360.zip)
+
 ### Contribuciones
 
-Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la resolución especificada.
+Si deseas contribuir, adelante :D .
 
 
 # Ingles
@@ -23,6 +27,10 @@ Si deseas contribuir, por favor asegúrate de que tus temas se ajustan a la reso
 -  [adwaitapod_simplified](./adwaitapod_simplified.zip)
 -  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark.zip)
 
+## Temas para Innioasis Y1 (360p)
+-  [adwaitapod](./adwaitapod_360.zip)
+-  [adwaitapod_dark](./adwaitapod_dark_360.zip)
+
 ### Contributions
 
-If you wish to contribute, please ensure that your themes adhere to the specified resolution.
+If you wish to contribute, go ahead :D .
