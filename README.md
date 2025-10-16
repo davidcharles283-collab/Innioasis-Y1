@@ -11,6 +11,8 @@
 ## Temas para Innioasis Y1 (360p)
 -  [adwaitapod](./adwaitapod_360.zip)
 -  [adwaitapod_dark](./adwaitapod_dark_360.zip)
+-  [adwaitapod_simplified](./adwaitapod_simplified-360p.zip)
+-  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark-360p.zip)
 
 ### Contribuciones
 
@@ -30,6 +32,8 @@ Si deseas contribuir, adelante :D .
 ## Temas para Innioasis Y1 (360p)
 -  [adwaitapod](./adwaitapod_360.zip)
 -  [adwaitapod_dark](./adwaitapod_dark_360.zip)
+-  [adwaitapod_simplified](./adwaitapod_simplified-360p.zip)
+-  [adwaitapod_simplified-dark](./adwaitapod_simplified-dark-360p.zip)
 
 ### Contributions
 
